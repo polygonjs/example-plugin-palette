@@ -1,0 +1,192 @@
+{
+	"nodes": {
+		"hemisphereLight1": {
+			"pos": [
+				150,
+				150
+			]
+		},
+		"spotLight1": {
+			"pos": [
+				200,
+				-50
+			]
+		},
+		"polarTransform1": {
+			"pos": [
+				200,
+				-150
+			]
+		},
+		"areaLight1": {
+			"pos": [
+				350,
+				0
+			]
+		},
+		"perspectiveCamera1": {
+			"pos": [
+				-200,
+				100
+			],
+			"nodes": {
+				"events1": {
+					"pos": [
+						-200,
+						50
+					],
+					"nodes": {
+						"cameraOrbitControls1": {
+							"pos": [
+								150,
+								50
+							]
+						}
+					}
+				}
+			}
+		},
+		"MAT": {
+			"pos": [
+				-200,
+				250
+			],
+			"nodes": {
+				"meshStandard_GROUND": {
+					"pos": [
+						0,
+						-100
+					]
+				},
+				"meshLambertBuilder1": {
+					"pos": [
+						0,
+						0
+					],
+					"nodes": {
+						"instanceTransform1": {
+							"pos": [
+								0,
+								0
+							]
+						},
+						"output1": {
+							"pos": [
+								200,
+								0
+							]
+						},
+						"globals1": {
+							"pos": [
+								-200,
+								0
+							]
+						},
+						"attribute1": {
+							"pos": [
+								-150,
+								-200
+							]
+						}
+					}
+				},
+				"meshStandardBuilder1": {
+					"pos": [
+						0,
+						100
+					],
+					"nodes": {
+						"globals1": {
+							"pos": [
+								-200,
+								0
+							]
+						},
+						"output1": {
+							"pos": [
+								200,
+								0
+							]
+						},
+						"instanceTransform1": {
+							"pos": [
+								0,
+								0
+							]
+						},
+						"attribute1": {
+							"pos": [
+								-150,
+								-200
+							]
+						}
+					}
+				}
+			}
+		},
+		"plane": {
+			"pos": [
+				-50,
+				-250
+			],
+			"nodes": {
+				"plane1": {
+					"pos": [
+						-50,
+						-50
+					]
+				},
+				"material1": {
+					"pos": [
+						-50,
+						50
+					]
+				}
+			}
+		},
+		"stackedSpheres": {
+			"pos": [
+				-50,
+				-150
+			],
+			"nodes": {
+				"sphere1": {
+					"pos": [
+						-800,
+						100
+					]
+				},
+				"instance1": {
+					"pos": [
+						-650,
+						400
+					]
+				},
+				"copy1": {
+					"pos": [
+						-500,
+						150
+					]
+				},
+				"hexagons3": {
+					"pos": [
+						-500,
+						-50
+					]
+				},
+				"transform3": {
+					"pos": [
+						-500,
+						50
+					]
+				},
+				"palette1": {
+					"pos": [
+						-500,
+						250
+					]
+				}
+			}
+		}
+	}
+}

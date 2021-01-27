@@ -1,0 +1,11 @@
+{
+	"type": "materials",
+	"nodes": {
+		"meshStandard_GROUND": {
+			"type": "meshStandard"
+		}
+	},
+	"selection": [
+		"meshStandardBuilder1"
+	]
+}

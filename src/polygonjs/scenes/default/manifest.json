@@ -1,0 +1,13 @@
+{
+	"properties": "1611601738536",
+	"root": "1611601738536",
+	"nodes": {
+		"perspectiveCamera1": "1611615079028",
+		"perspectiveCamera1/events1": "1611601738536",
+		"MAT": "1611601709225",
+		"MAT/meshLambertBuilder1": "1611615069625",
+		"MAT/meshStandardBuilder1": "1611615079028",
+		"plane": "1611601405557",
+		"stackedSpheres": "1611615079028"
+	}
+}

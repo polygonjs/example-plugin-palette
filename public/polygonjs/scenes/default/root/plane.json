@@ -1,0 +1,37 @@
+{
+	"type": "geo",
+	"nodes": {
+		"plane1": {
+			"type": "plane",
+			"params": {
+				"size": [
+					22,
+					22
+				],
+				"center": [
+					0,
+					-0.37,
+					0
+				]
+			}
+		},
+		"material1": {
+			"type": "material",
+			"params": {
+				"material": "/MAT/meshStandard_GROUND"
+			},
+			"inputs": [
+				"plane1"
+			],
+			"flags": {
+				"display": true
+			}
+		}
+	},
+	"flags": {
+		"display": true
+	},
+	"selection": [
+		"material1"
+	]
+}

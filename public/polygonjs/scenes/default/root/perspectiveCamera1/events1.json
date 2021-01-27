@@ -1,0 +1,18 @@
+{
+	"type": "events",
+	"nodes": {
+		"cameraOrbitControls1": {
+			"type": "cameraOrbitControls",
+			"params": {
+				"target": [
+					-1.4747897203894496,
+					2.6481390861719785,
+					-1.3040399806421303
+				]
+			}
+		}
+	},
+	"selection": [
+		"cameraOrbitControls1"
+	]
+}
