@@ -4,9 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@polygonjs/plugin-palette": "^1.0.4",
-    "@polygonjs/polygonjs": "^1.1.55",
-    "polygonjs-editor": "^1.1.55-1"
+    "@polygonjs/plugin-palette": "^1.0.5",
+    "polygonjs-editor": "^1.1.57-1"
   },
   "devDependencies": {
     "snowpack": "^3.0.11"
