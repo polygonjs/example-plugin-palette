@@ -55,7 +55,7 @@
 				"type": "Material",
 				"generator": "Material.toJSON"
 			},
-			"uuid": "06435998-70D4-421F-A160-9FB69BD244E7",
+			"uuid": "1D195B12-B177-46AD-ACBF-41697F41E17B",
 			"type": "ShaderMaterial",
 			"name": "/MAT/meshLambertBuilder1",
 			"depthFunc": 3,
@@ -231,7 +231,7 @@
 					"type": "Material",
 					"generator": "Material.toJSON"
 				},
-				"uuid": "214CCE40-39BA-4ABB-A604-61E8D0A7AABB",
+				"uuid": "11DD6E9A-1655-4D6A-AD1E-408669CACCD9",
 				"type": "ShaderMaterial",
 				"depthFunc": 3,
 				"depthTest": true,
@@ -324,7 +324,7 @@
 					"type": "Material",
 					"generator": "Material.toJSON"
 				},
-				"uuid": "0E6EE754-D09C-4C87-A5D4-0A8048510BA3",
+				"uuid": "BFE65B00-51D1-4171-8624-6972829F9BC2",
 				"type": "ShaderMaterial",
 				"depthFunc": 3,
 				"depthTest": true,
@@ -403,7 +403,7 @@
 					"type": "Material",
 					"generator": "Material.toJSON"
 				},
-				"uuid": "A9BA1676-09FE-49D1-AFE3-E43F52F1AD47",
+				"uuid": "0CE3B036-9814-4EB8-970F-C565E8432029",
 				"type": "ShaderMaterial",
 				"depthFunc": 3,
 				"depthTest": true,

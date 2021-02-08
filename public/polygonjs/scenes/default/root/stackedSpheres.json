@@ -92,8 +92,5 @@
 	},
 	"flags": {
 		"display": true
-	},
-	"selection": [
-		"copy1"
-	]
+	}
 }
