@@ -7,7 +7,7 @@ This plugin adds a node `SOP/Palette` which adds colors from various palettes to
 ![Spheres with colors defined with the Palette node](https://github.com/polygonjs/example-plugin-palette/blob/main/doc/palette_examples.jpg?raw=true)
 ## Open the scene in the WebGL editor
 
-`yarn && yarn edit`
+`yarn && yarn polygon`
 
 This will open the scene saved in this repo. It is a simple scene with a few instanced spheres, whose color is set via the SOP/Palette node.
 
