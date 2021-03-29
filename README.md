@@ -21,3 +21,7 @@ This will open the scene saved in this repo. It is a simple scene with a few ins
 
 `yarn && yarn run snowpack dev`
 
+and open your browser at:
+
+`http://localhost:8091?scene=default`
+
