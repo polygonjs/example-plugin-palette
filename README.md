@@ -9,6 +9,10 @@ This plugin adds a node `SOP/Palette` which adds colors from various palettes to
 
 `yarn && yarn polygon`
 
+and open your browser at:
+
+`http://localhost:8091?scene=default`
+
 This will open the scene saved in this repo. It is a simple scene with a few instanced spheres, whose color is set via the SOP/Palette node.
 
 ![Palette plugin from Polygonjs node-based Editor](https://github.com/polygonjs/example-plugin-palette/blob/main/doc/palette_example_in_editor.jpg?raw=true)
@@ -23,5 +27,5 @@ This will open the scene saved in this repo. It is a simple scene with a few ins
 
 and open your browser at:
 
-`http://localhost:8091?scene=default`
+`http://localhost:8080`
 
