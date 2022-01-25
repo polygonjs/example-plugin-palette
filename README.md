@@ -2,6 +2,10 @@
 
 This repository shows how to use the [Palette Plugin](https://github.com/polygonjs/plugin-palette) for the WebGL engine [Polygonjs](https://github.com/polygonjs/polygonjs).
 
+
+**Note that the plugin has now been moved into the core of Polygonjs**, _so there is no need to install the plugin as it is always available_. See [Documentation](https://polygonjs.com/docs/nodes/sop/palette)
+
+
 This plugin adds a node `SOP/Palette` which adds colors from various palettes to the input points.
 
 ![Spheres with colors defined with the Palette node](https://github.com/polygonjs/example-plugin-palette/blob/main/doc/palette_examples.jpg?raw=true)
